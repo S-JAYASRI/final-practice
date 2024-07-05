@@ -1,9 +1,12 @@
 <html>
-<head> <title> </title>
+<head> 
+    <title> </title>
 </head>
 <body>
-<center>
-<h1>Practice model</h1>
-</center>
+    <center>
+        <h1>Practice model</h1>
+    </center>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nostrum cum libero suscipit? Sequi porro numquam repellat corrupti provident voluptatum odit in itaque sint quas. Dignissimos culpa quia corporis illum, sed excepturi dolorem commodi amet voluptatum quod quae accusantium iste error aspernatur eaque esse vero aut totam sint. Labore, est.</p>
 </body>
 </html>
